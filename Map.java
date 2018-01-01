@@ -1,6 +1,5 @@
 /*Jimmy Hughes
  * Parallel & Distributed Computing
- * Homework 3
  * Page Rank
  * 
  */
