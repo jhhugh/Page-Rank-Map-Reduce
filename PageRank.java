@@ -1,6 +1,5 @@
 /*Jimmy Hughes
  * Parallel & Distributed Computing
- * Homework 3
  * Page Rank
  * 
  *This program takes an input file (graph of data) and its adjacency list and generates a file that contains
